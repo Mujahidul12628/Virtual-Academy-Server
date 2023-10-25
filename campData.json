@@ -6,12 +6,44 @@
         "instructorImg": "https://i.ibb.co/6tj7N6D/football.jpg",
         "instructorName": "John Doe",
         "instructorJob": "Football Trainer",
+        "teacherJoined": "January 10, 2015",
+        "experience": "10 years",
+        "coursesTaught": [
+            "Introduction to Football",
+            "Advanced Techniques",
+            "Physical Conditioning",
+            "Team Strategies",
+            "Game Analysis"
+        ],
         "availableSeats": 40,
         "price": 20.99,
         "email": "johndoe@example.com",
         "takenClasses": 4,
-        "rating": 4.5,
-        "category": "Outdoor"
+        "rating": 4.8,
+        "category": "Outdoor",
+        "date": "September 16, 2023",
+        "course_content": [
+            {
+                "title": "Introduction to Football",
+                "description": "Overview of the basic skills and rules of football."
+            },
+            {
+                "title": "Advanced Techniques",
+                "description": "In-depth study of advanced football techniques and strategies."
+            },
+            {
+                "title": "Physical Conditioning",
+                "description": "Understanding the importance of physical fitness in football."
+            },
+            {
+                "title": "Team Strategies",
+                "description": "Exploration of effective team strategies and coordination."
+            },
+            {
+                "title": "Game Analysis",
+                "description": "Analyzing football games to understand different playing styles."
+            }
+        ]
     },
     {
         "id": 2,
@@ -20,12 +52,44 @@
         "instructorImg": "https://i.ibb.co/LYtvx8v/busketball.jpg",
         "instructorName": "Jane Smith",
         "instructorJob": "Basketball Trainer",
+        "teacherJoined": "March 22, 2018",
+        "experience": "7 years",
+        "coursesTaught": [
+            "Basics of Basketball",
+            "Throwing Techniques",
+            "Defensive Strategies",
+            "Team Coordination",
+            "Game Tactics"
+        ],
         "availableSeats": 40,
         "price": 20.99,
         "email": "janesmith@example.com",
         "takenClasses": 5,
-        "rating": 4.0,
-        "category": "Indoor"
+        "rating": 4.7,
+        "category": "Indoor",
+        "date": "September 17, 2023",
+        "course_content": [
+            {
+                "title": "Basics of Basketball",
+                "description": "Introduction to the fundamental skills and rules of basketball."
+            },
+            {
+                "title": "Throwing Techniques",
+                "description": "In-depth study of basketball Throwing techniques and accuracy."
+            },
+            {
+                "title": "Defensive Strategies",
+                "description": "Understanding effective defensive strategies in basketball."
+            },
+            {
+                "title": "Team Coordination",
+                "description": "Exploration of teamwork and coordination in basketball games."
+            },
+            {
+                "title": "Game Tactics",
+                "description": "Analyzing basketball game tactics and decision-making on the court."
+            }
+        ]
     },
     {
         "id": 3,
@@ -34,12 +98,44 @@
         "instructorImg": "https://i.ibb.co/ZfrNq6m/badbinton.jpg",
         "instructorName": "Michael Johnson",
         "instructorJob": "Badminton Trainer",
+        "teacherJoined": "June 5, 2016",
+        "experience": "6 years",
+        "coursesTaught": [
+            "Badminton Basics",
+            "Advanced Techniques",
+            "Footwork and Positioning",
+            "Doubles Strategies",
+            "Game Analysis"
+        ],
         "availableSeats": 40,
         "price": 22.99,
         "email": "michaeljohnson@example.com",
         "takenClasses": 6,
-        "rating": 4.2,
-        "category": "Indoor"
+        "rating": 4.4,
+        "category": "Indoor",
+        "date": "September 18, 2023",
+        "course_content": [
+            {
+                "title": "Badminton Basics",
+                "description": "Overview of basic badminton skills, rules, and court dynamics."
+            },
+            {
+                "title": "Advanced Techniques",
+                "description": "In-depth study of advanced badminton techniques, smashes, and drops."
+            },
+            {
+                "title": "Footwork and Positioning",
+                "description": "Understanding the importance of footwork and positioning in badminton."
+            },
+            {
+                "title": "Doubles Strategies",
+                "description": "Exploration of effective doubles strategies and communication on the court."
+            },
+            {
+                "title": "Game Analysis",
+                "description": "Analyzing badminton games to improve decision-making during matches."
+            }
+        ]
     },
     {
         "id": 4,
@@ -48,12 +144,44 @@
         "instructorImg": "https://i.ibb.co/FDCdbVc/rugby.jpg",
         "instructorName": "Emily Brown",
         "instructorJob": "Rugby Trainer",
+        "teacherJoined": "September 8, 2017",
+        "experience": "5 years",
+        "coursesTaught": [
+            "Rugby Fundamentals",
+            "Scrum and Lineout Techniques",
+            "Tackling and Defensive Skills",
+            "Team Play and Strategy",
+            "Game Analysis"
+        ],
         "availableSeats": 40,
         "price": 19.99,
         "email": "emilybrown@example.com",
         "takenClasses": 5,
-        "rating": 3.8,
-        "category": "Outdoor"
+        "rating": 4.9,
+        "category": "Outdoor",
+        "date": "September 19, 2023",
+        "course_content": [
+            {
+                "title": "Rugby Fundamentals",
+                "description": "Introduction to the basic skills, rules, and positions in rugby."
+            },
+            {
+                "title": "Scrum and Lineout Techniques",
+                "description": "In-depth study of scrum and lineout techniques in rugby."
+            },
+            {
+                "title": "Tackling and Defensive Skills",
+                "description": "Understanding effective tackling and defensive skills in rugby."
+            },
+            {
+                "title": "Team Play and Strategy",
+                "description": "Exploration of teamwork and strategic plays in rugby matches."
+            },
+            {
+                "title": "Game Analysis",
+                "description": "Analyzing rugby games to improve overall team performance."
+            }
+        ]
     },
     {
         "id": 5,
@@ -62,12 +190,44 @@
         "instructorImg": "https://i.ibb.co/PDS6PTD/goalf.jpg",
         "instructorName": "David Wilson",
         "instructorJob": "Golf Trainer",
+        "teacherJoined": "December 12, 2014",
+        "experience": "8 years",
+        "coursesTaught": [
+            "Golf Basics",
+            "Swing Mechanics",
+            "Short Game Mastery",
+            "Course Management",
+            "Game Analysis"
+        ],
         "availableSeats": 40,
         "price": 25.99,
         "email": "davidwilson@example.com",
         "takenClasses": 5,
         "rating": 4.7,
-        "category": "Outdoor"
+        "category": "Outdoor",
+        "date": "September 20, 2023",
+        "course_content": [
+            {
+                "title": "Golf Basics",
+                "description": "Introduction to the fundamental techniques, rules, and etiquette in golf."
+            },
+            {
+                "title": "Swing Mechanics",
+                "description": "In-depth study of golf swing mechanics, grip, and posture."
+            },
+            {
+                "title": "Short Game Mastery",
+                "description": "Understanding and mastering short game techniques, including putting and chipping."
+            },
+            {
+                "title": "Course Management",
+                "description": "Exploration of effective course management strategies for better scores."
+            },
+            {
+                "title": "Game Analysis",
+                "description": "Analyzing golf games to identify areas for improvement and refinement of skills."
+            }
+        ]
     },
     {
         "id": 6,
@@ -76,11 +236,43 @@
         "instructorImg": "https://i.ibb.co/PCsz4wg/Cricket-2.jpg",
         "instructorName": "Sophia Anderson",
         "instructorJob": "Cricket Trainer",
+        "teacherJoined": "August 15, 2016",
+        "experience": "6 years",
+        "coursesTaught": [
+            "Cricket Basics",
+            "Batting Techniques",
+            "Bowling Mastery",
+            "Fielding Drills",
+            "Game Analysis"
+        ],
         "availableSeats": 40,
         "price": 23.99,
         "email": "sophiaanderson@example.com",
         "takenClasses": 4,
-        "rating": 4.2,
-        "category": "Outdoor"
+        "rating": 4.4,
+        "category": "Outdoor",
+        "date": "September 21, 2023",
+        "course_content": [
+            {
+                "title": "Cricket Basics",
+                "description": "Introduction to the basic skills, rules, and positions in cricket."
+            },
+            {
+                "title": "Batting Techniques",
+                "description": "In-depth study of cricket batting techniques, grips, and shot selection."
+            },
+            {
+                "title": "Bowling Mastery",
+                "description": "Understanding and mastering various bowling styles and techniques in cricket."
+            },
+            {
+                "title": "Fielding Drills",
+                "description": "Exploration of effective fielding drills and techniques for cricket players."
+            },
+            {
+                "title": "Game Analysis",
+                "description": "Analyzing cricket matches to improve overall individual and team performance."
+            }
+        ]
     }
 ]
